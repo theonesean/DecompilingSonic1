@@ -2,6 +2,8 @@
 
 I'm having fun by taking the [Sonic 1 disassembly](https://github.com/sonicretro/s1disasm) and decompiling it into C++ to learn how it works! I don't know if it'll ever compile/run, but maybe it'll be useful/fun/interesting to other people.
 
+Cool!
+
 ## Does this compile?
 
 No. It's not even set up to compile. I'm just kinda throwing everything in .cpp files to keep it organized, but there are no headers or makefiles or anything. A lot of the lower-level code (and some of the higher level code) is really dependent on how the Genesis/Mega Drive works, so it would need a lot of work to make a "C++ Sonic 1" a reality. (Not that I really have any interest running aground Sega's legal might.)
